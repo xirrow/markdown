@@ -1,6 +1,6 @@
-*Blog Post Hypothetical
+#Blog Post Hypothetical
 
-**Today's completed tasks thus far:
+##Today's completed tasks thus far:
 1. Out of bed at 9AM
 2. Ate a single serving lemon pie and drank a low-carb Monster energon drink for breakfast. (Champion)
 3. Proofread email for partner before they sent it to their company's up and ups.
